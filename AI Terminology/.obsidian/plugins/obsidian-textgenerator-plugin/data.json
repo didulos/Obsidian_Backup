@@ -77,7 +77,7 @@
     "overrideTrigger": " "
   },
   "slashSuggestOptions": {
-    "isEnabled": false,
+    "isEnabled": true,
     "triggerPhrase": "/"
   },
   "extractorsOptions": {
@@ -100,7 +100,8 @@
     "OpenAI Chat (Langchain)": {
       "basePath": "https://api.openai.com/v1",
       "model": "gpt-4o",
-      "reasoningEffort": "medium"
+      "reasoningEffort": "medium",
+      "api_key": ""
     },
     "Default (Custom)": {
       "endpoint": "https://api.anthropic.com/v1/messages",
@@ -114,12 +115,13 @@
       "top_p": 1,
       "api_key": "",
       "isThinkingModel": true,
-      "CORSBypass": false
+      "CORSBypass": true
     }
   },
   "LLMProviderOptionsKeysHashed": {
     "whisper.api_key": "__@#key_prefix#@__",
-    "Default (Custom).api_key": "__@#key_prefix#@__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"
+    "Default (Custom).api_key": "__@#key_prefix#@__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",
+    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-proj-TnLW7PFBDd_2oErJI7BuCPsG9GofenUjxmqVjyF5tg3QKFeK3V2HYdnAZ4pOvsa8k82NKTaI6ST3BlbkFJipoANnjHYNswfZFYxQ6GeRiFN8fx5hiIvegfgZqj1rxxih8Z4mSAEQ-B8Ut_Xv5K3wVEdOO2IA"
   },
-  "api_key_encrypted": "__@#key_prefix#@__"
+  "api_key_encrypted": "__@#key_prefix#@__sk-proj-TnLW7PFBDd_2oErJI7BuCPsG9GofenUjxmqVjyF5tg3QKFeK3V2HYdnAZ4pOvsa8k82NKTaI6ST3BlbkFJipoANnjHYNswfZFYxQ6GeRiFN8fx5hiIvegfgZqj1rxxih8Z4mSAEQ-B8Ut_Xv5K3wVEdOO2IA"
 }
