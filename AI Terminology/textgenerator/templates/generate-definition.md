@@ -12,7 +12,7 @@ description: 용어의 정의, 관련 개념, 비유를 생성하고 frontmatter
 
   
 
-용어: {{selection}}
+용어: {{tg_selection}}
 
   
 
