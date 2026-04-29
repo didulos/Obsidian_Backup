@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Cat-MLOps.md",
+                "file": "Terms/BERT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cat-MLOps"
+              "title": "BERT"
             }
           }
         ]
@@ -212,14 +212,19 @@
   },
   "active": "c12e9e8b01dac2ec",
   "lastOpenFiles": [
+    "Terms/attention.md",
+    "Terms/BERT.md",
+    "Terms/Data-Management.md",
+    "status/Evergreen.md",
+    "status/Growing.md",
+    "status/Seed.md",
+    "textgenerator/templates/generate-definition.md",
+    "Categories/Cat-MLOps.md",
     "Terms/GitHub.md",
     "Terms/Git.md",
     "Terms/diff.md",
-    "textgenerator/templates/generate-definition.md",
     "Terms/REST-API.md",
     "Terms/API.md",
-    "Terms/Data-Management.md",
-    "status/Seed.md",
     "Terms/Achieve.md",
     "AI Terms Whole DB/AI 용어 전체 DB.md",
     "Categories/Cat-Machine-Learning.md",
@@ -233,11 +238,6 @@
     "textgenerator/configs/llm/config_4-28232608.json.md",
     "textgenerator/templates/expand-terms.md",
     "textgenerator/templates/dalle/artBanksy.md",
-    "textgenerator/templates/dalle/artAnime.md",
-    "textgenerator/templates/smartConnections/summarize.md",
-    "textgenerator/templates/classify-term.md",
-    "textgenerator/templates/dalle/artWatercolor.md",
-    "textgenerator/templates/dalle/qua35mm.md",
     "textgenerator/templates/dalle",
     "textgenerator/templates/smartConnections",
     "textgenerator/templates/default",
