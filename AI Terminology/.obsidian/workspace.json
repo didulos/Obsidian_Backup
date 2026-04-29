@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf3b324e64459a5a",
+        "id": "ab5a4dd3a0e8f381",
         "type": "tabs",
         "children": [
           {
-            "id": "c12e9e8b01dac2ec",
+            "id": "5f474a9babbca04b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Cat-Agent.md",
-                "mode": "source",
-                "source": false
+                "file": "Categories/Cat-Infra.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Cat-Agent"
+              "title": "Cat-Infra"
             }
           }
         ]
@@ -210,35 +210,35 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "c12e9e8b01dac2ec",
+  "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/BERT.md",
-    "status/Seed.md",
-    "status/Growing.md",
+    "Categories/Cat-Generative-AI.md",
+    "Categories/Cat-Deep-Learning.md",
+    "Categories/Cat-Data-Engineering.md",
+    "Categories/Cat-Computer-Vision.md",
     "Categories/Cat-Business.md",
-    "AI Terms Whole DB/AI 용어 전체 DB.md",
-    "Categories/Cat-Machine-Learning.md",
-    "Terms/AI.md",
+    "Categories/Cat-Agent.md",
+    "Terms/Crawling.md",
     "Terms/Achieve.md",
+    "Categories/Cat-Infra.md",
+    "Terms/Cloud.md",
+    "Terms/ChatBot.md",
+    "Terms/Data-Management.md",
+    "Terms/Prompting.md",
+    "Terms/GitHub.md",
+    "Terms/Chain-of-Thought.md",
+    "Terms/Threshold.md",
+    "Terms/Test.md",
     "Terms/REST-API.md",
     "Terms/Git.md",
-    "Terms/GitHub.md",
     "Terms/Embedding.md",
-    "Terms/diff.md",
-    "Terms/Data-Management.md",
-    "Terms/attention.md",
-    "Terms/Archive.md",
-    "Terms/API.md",
-    "textgenerator/templates/trash/smartConnections/summarize.md",
+    "Terms/Evaluation.md",
+    "textgenerator/templates/generate-definition.md",
+    "AI Terms Whole DB/AI 용어 전체 DB.md",
+    "Categories/Cat-Machine-Learning.md",
+    "Categories/Cat-Math.md",
+    "Categories/Cat-NLP.md",
     "textgenerator/templates/trash/smartConnections",
-    "textgenerator/templates/trash/dalle/sitNature.md",
-    "textgenerator/templates/trash/dalle/quaTiltShift.md",
-    "textgenerator/templates/trash/dalle/quaMacro.md",
-    "textgenerator/templates/trash/dalle/quaCinematic.md",
-    "textgenerator/templates/trash/dalle/quaBokeh.md",
-    "textgenerator/templates/trash/dalle/qua85mm.md",
-    "textgenerator/templates/trash/dalle/qua4K.md",
-    "textgenerator/templates/trash/dalle/qua35mm.md",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
     "textgenerator/templates/trash",

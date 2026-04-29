@@ -1,5 +1,3 @@
-REST-API
-
 ---
 type: term
 category: [Infra]

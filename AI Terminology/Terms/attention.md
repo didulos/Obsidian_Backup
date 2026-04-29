@@ -1,6 +1,3 @@
-attention
-
-
 ---
 type: term
 category: [Deep-Learning, NLP]

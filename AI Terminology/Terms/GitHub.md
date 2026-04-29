@@ -1,5 +1,3 @@
-GitHub
-
 ---
 type: term
 category: [MLOps, Infra]

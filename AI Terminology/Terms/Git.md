@@ -1,5 +1,3 @@
-Git
-
 ---
 type: term
 category: [MLOps, Infra]

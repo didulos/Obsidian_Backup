@@ -1,5 +1,3 @@
-BERT
-
 ---
 type: term
 category: [NLP, Deep-Learning]

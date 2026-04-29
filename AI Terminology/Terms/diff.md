@@ -1,5 +1,3 @@
-diff
-
 ---
 
 type: term

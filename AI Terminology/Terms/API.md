@@ -1,5 +1,3 @@
-API
-
 ---
 type: term
 category: [Infra]

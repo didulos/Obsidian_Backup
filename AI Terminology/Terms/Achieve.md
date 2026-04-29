@@ -1,33 +1,29 @@
-Achieve
-
 ---
 type: term
-category: [Business]
+category: [Machine-Learning, Business]
 status: seed
 ---
 
 ## 정의
 
-목표 달성(goal achievement)은 사전에 설정한 성과 지표(performance metric)에 도달하거나 초과하는 것을 의미한다. ML/AI 맥락에서는 모델이 학습 목표를 달성했는지, 또는 비즈니스 목표를 충족했는지를 평가하는 기준이 된다.
+목표 달성(achieve)은 머신러닝 모델이 학습 과정에서 설정된 성능 지표(performance metric)에 도달하거나 초과하는 것을 의미한다. 이는 모델이 원하는 정확도(accuracy), 손실값(loss), F1-스코어(F1-score) 등의 목표치를 만족했음을 의미한다.
 
 ## 왜 중요한가
 
-AI/ML 프로젝트의 성공 여부를 정량적으로 판단하기 위해서는 명확한 달성 기준(success criteria)이 필수적이다. 이를 통해 모델의 효과성을 검증하고 배포 의사결정을 내릴 수 있다.
+실무에서 모델 개발은 구체적인 성능 목표 달성이 최종 목표이기 때문에, 모델이 실제로 비즈니스 요구사항을 충족하는지 판단하는 핵심 척도가 된다. 목표 달성 여부는 모델 배포(deployment) 결정의 직접적인 근거가 된다.
 
 ## 관련 개념
 
-- 상위 개념: [[KPI]](핵심 성과 지표)
-
-- 하위 개념: [[Model-Evaluation]](모델 평가), [[A/B-Testing]](A/B 테스트)
-
-- 연관 개념: [[Performance-Metric]](성능 지표), [[Baseline]](베이스라인), [[Validation]](검증)
+- 상위 개념: [[Evaluation]](평가)
+- 하위 개념: [[Convergence]](수렴), [[Threshold]](임계값)
+- 연관 개념: [[Performance-Metric]](성능 지표), [[Hyperparameter-Tuning]](하이퍼파라미터 튜닝), [[Validation]](검증)
 
 ## 비유로 이해하기
 
-마라톤 선수가 2시간 30분 안에 완주하겠다는 목표를 세웠을 때, 실제로 2시간 28분에 도착한 것처럼, 모델도 설정된 정확도(accuracy) 목표를 실제로 달성했는지 확인하는 과정이다.
+시험에서 합격선(커트라인)을 넘는 점수를 받는 것처럼, 모델도 미리 정한 성능 목표선을 넘어야 "달성했다"고 볼 수 있다.
 
 ## 실제 사용 예시
 
-"우리 분류 모델(classification model)은 정확도(accuracy) 95% 달성을 목표로 했으며, 테스트 데이터(test set)에서 96.2%를 기록해 목표를 초과 달성했다."
+"이번 분류 모델은 정확도 92% 달성을 목표로 했고, 테스트 데이터셋에서 94%를 기록하며 목표를 초과 달성했다."
 
-"추천 시스템(recommendation system)의 달성 기준은 클릭률(CTR) 증가 15%였는데, A/B 테스트 결과 12%만 증가하여 목표 미달성 판정을 받았다."
+"추천 시스템이 AUC 0.85 이상을 달성해야 프로덕션 배포 조건을 만족한다."

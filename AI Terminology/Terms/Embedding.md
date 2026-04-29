@@ -1,5 +1,3 @@
-Embedding
-
 ---
 type: term
 category: [Machine-Learning, Deep-Learning]

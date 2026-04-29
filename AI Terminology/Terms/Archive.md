@@ -1,5 +1,3 @@
-Archive
-
 ---
 type: term
 category: [Data-Engineering, MLOps]

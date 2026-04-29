@@ -1,5 +1,3 @@
-Data-Management
-
 ---
 type: term
 category: [Data-Engineering, MLOps]
