@@ -2,7 +2,7 @@
 
 ```dataview
 TABLE status as 상태
-FROM "01-Terms"
-WHERE contains(category, this.file.name)
+FROM "Terms"
+WHERE contains(category, replace(this.file.name, "Cat-", ""))
 SORT file.name ASC
 ```

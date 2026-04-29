@@ -5,7 +5,7 @@ TABLE
   category as 분야,
   status as 상태,
   file.size as 크기
-FROM "01-Terms"
+FROM "Terms"
 WHERE type = "term"
 SORT category ASC
 ```

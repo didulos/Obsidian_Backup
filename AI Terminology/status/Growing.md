@@ -2,7 +2,7 @@
 
 ```dataview
 TABLE category as 분야
-FROM "01-Terms"
+FROM "Terms"
 WHERE status = "growing"
 SORT file.name ASC
 ```
