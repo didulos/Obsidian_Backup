@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Cat-Infra.md",
-                "mode": "preview",
+                "file": "textgenerator/templates/generate-definition.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cat-Infra"
+              "title": "generate-definition"
             }
           }
         ]
@@ -212,6 +212,13 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
+    "Terms/Docker.md",
+    "Terms/Deep-Learning.md",
+    "Terms/deployment.md",
+    "textgenerator/templates/generate-definition.md",
+    "Terms/Data-Management.md",
+    "Terms/Achieve.md",
+    "Categories/Cat-Infra.md",
     "Categories/Cat-Generative-AI.md",
     "Categories/Cat-Deep-Learning.md",
     "Categories/Cat-Data-Engineering.md",
@@ -219,11 +226,8 @@
     "Categories/Cat-Business.md",
     "Categories/Cat-Agent.md",
     "Terms/Crawling.md",
-    "Terms/Achieve.md",
-    "Categories/Cat-Infra.md",
     "Terms/Cloud.md",
     "Terms/ChatBot.md",
-    "Terms/Data-Management.md",
     "Terms/Prompting.md",
     "Terms/GitHub.md",
     "Terms/Chain-of-Thought.md",
@@ -233,11 +237,7 @@
     "Terms/Git.md",
     "Terms/Embedding.md",
     "Terms/Evaluation.md",
-    "textgenerator/templates/generate-definition.md",
     "AI Terms Whole DB/AI 용어 전체 DB.md",
-    "Categories/Cat-Machine-Learning.md",
-    "Categories/Cat-Math.md",
-    "Categories/Cat-NLP.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
