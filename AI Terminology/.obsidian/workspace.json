@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "textgenerator/templates/generate-definition.md",
-                "mode": "source",
+                "file": "Terms/ETL.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "generate-definition"
+              "title": "ETL"
             }
           }
         ]
@@ -212,12 +212,19 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
+    "Terms/epoch.md",
+    "Terms/ETL.md",
+    "Terms/Entity.md",
+    "Categories/Cat-Machine-Learning.md",
+    "Terms/Evaluation.md",
+    "Terms/Embedding.md",
+    "Terms/ELT.md",
     "Terms/Docker.md",
+    "Terms/Achieve.md",
+    "textgenerator/templates/generate-definition.md",
     "Terms/Deep-Learning.md",
     "Terms/deployment.md",
-    "textgenerator/templates/generate-definition.md",
     "Terms/Data-Management.md",
-    "Terms/Achieve.md",
     "Categories/Cat-Infra.md",
     "Categories/Cat-Generative-AI.md",
     "Categories/Cat-Deep-Learning.md",
@@ -231,13 +238,6 @@
     "Terms/Prompting.md",
     "Terms/GitHub.md",
     "Terms/Chain-of-Thought.md",
-    "Terms/Threshold.md",
-    "Terms/Test.md",
-    "Terms/REST-API.md",
-    "Terms/Git.md",
-    "Terms/Embedding.md",
-    "Terms/Evaluation.md",
-    "AI Terms Whole DB/AI 용어 전체 DB.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
