@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/Threshold.md",
+                "file": "Terms/Model-Development.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Threshold"
+              "title": "Model-Development"
             }
           }
         ]
@@ -212,6 +212,9 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
+    "Terms/Ratchet-Principle.md",
+    "Terms/Model-Development.md",
+    "Terms/Threshold.md",
     "Terms/ETL.md",
     "Terms/epoch.md",
     "Terms/Entity.md",
@@ -235,9 +238,6 @@
     "Terms/Crawling.md",
     "Terms/Cloud.md",
     "Terms/ChatBot.md",
-    "Terms/Prompting.md",
-    "Terms/GitHub.md",
-    "Terms/Chain-of-Thought.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
