@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/Model-Development.md",
+                "file": "Terms/Full-Stack.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Model-Development"
+              "title": "Full-Stack"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/Ratchet-Principle.md",
     "Terms/Model-Development.md",
+    "Terms/Full-Stack.md",
+    "Terms/Ratchet-Principle.md",
     "Terms/Threshold.md",
     "Terms/ETL.md",
     "Terms/epoch.md",
@@ -237,7 +238,6 @@
     "Categories/Cat-Agent.md",
     "Terms/Crawling.md",
     "Terms/Cloud.md",
-    "Terms/ChatBot.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
