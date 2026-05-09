@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/Full-Stack.md",
-                "mode": "preview",
+                "file": "Terms/Slop.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Full-Stack"
+              "title": "Slop"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/Model-Development.md",
     "Terms/Full-Stack.md",
+    "Terms/Slop.md",
+    "Terms/Model-Development.md",
     "Terms/Ratchet-Principle.md",
     "Terms/Threshold.md",
     "Terms/ETL.md",
@@ -237,7 +238,6 @@
     "Categories/Cat-Business.md",
     "Categories/Cat-Agent.md",
     "Terms/Crawling.md",
-    "Terms/Cloud.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
