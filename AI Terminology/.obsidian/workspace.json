@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/context.md",
+                "file": "Terms/LLM.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "context"
+              "title": "LLM"
             }
           }
         ]
@@ -212,8 +212,10 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/TDD.md",
+    "Terms/RAG.md",
+    "Terms/LLM.md",
     "Terms/context.md",
+    "Terms/TDD.md",
     "Categories/Cat-Infra.md",
     "Categories/Cat-Generative-AI.md",
     "Categories/Cat-Deep-Learning.md",
@@ -236,8 +238,6 @@
     "Terms/Ratchet-Principle.md",
     "Terms/Threshold.md",
     "Terms/ETL.md",
-    "Terms/epoch.md",
-    "Terms/Entity.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
