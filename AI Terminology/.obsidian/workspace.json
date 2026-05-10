@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/Profile.md",
+                "file": "Terms/column.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Profile"
+              "title": "column"
             }
           }
         ]
@@ -212,8 +212,10 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/blocking.md",
+    "Terms/spawn.md",
+    "Terms/column.md",
     "Terms/Profile.md",
+    "Terms/blocking.md",
     "Terms/queue.md",
     "Terms/row.md",
     "Terms/hand-off.md",
@@ -237,8 +239,6 @@
     "Terms/무제",
     "Terms/LLM.md",
     "Terms/RAG.md",
-    "Terms/TDD.md",
-    "Categories/Cat-Infra.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
