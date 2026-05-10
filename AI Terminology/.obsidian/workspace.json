@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/SKU.md",
+                "file": "Terms/TDD.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SKU"
+              "title": "TDD"
             }
           }
         ]
@@ -212,8 +212,24 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/Slop.md",
+    "Categories/Cat-Infra.md",
+    "Terms/TDD.md",
+    "Categories/Cat-Generative-AI.md",
+    "Categories/Cat-Deep-Learning.md",
+    "Categories/Cat-Data-Engineering.md",
+    "Categories/Cat-Computer-Vision.md",
+    "Categories/Cat-Business.md",
+    "Categories/Cat-Agent.md",
+    "status/Seed.md",
+    "AI Terms Whole DB/AI 용어 전체 DB.md",
+    "Terms/deep module.md",
+    "Terms/DDD.md",
+    "Terms/drift.md",
+    "Terms/Ubiquitous-Language.md",
+    "Terms/PRD.md",
+    "Terms/grilling.md",
     "Terms/SKU.md",
+    "Terms/Slop.md",
     "Terms/Full-Stack.md",
     "Terms/Model-Development.md",
     "Terms/Ratchet-Principle.md",
@@ -222,22 +238,6 @@
     "Terms/epoch.md",
     "Terms/Entity.md",
     "Categories/Cat-Machine-Learning.md",
-    "Terms/Evaluation.md",
-    "Terms/Embedding.md",
-    "Terms/ELT.md",
-    "Terms/Docker.md",
-    "Terms/Achieve.md",
-    "textgenerator/templates/generate-definition.md",
-    "Terms/Deep-Learning.md",
-    "Terms/deployment.md",
-    "Terms/Data-Management.md",
-    "Categories/Cat-Infra.md",
-    "Categories/Cat-Generative-AI.md",
-    "Categories/Cat-Deep-Learning.md",
-    "Categories/Cat-Data-Engineering.md",
-    "Categories/Cat-Computer-Vision.md",
-    "Categories/Cat-Business.md",
-    "Categories/Cat-Agent.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
