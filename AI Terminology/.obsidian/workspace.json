@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/TDD.md",
+                "file": "Terms/context.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TDD"
+              "title": "context"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Categories/Cat-Infra.md",
     "Terms/TDD.md",
+    "Terms/context.md",
+    "Categories/Cat-Infra.md",
     "Categories/Cat-Generative-AI.md",
     "Categories/Cat-Deep-Learning.md",
     "Categories/Cat-Data-Engineering.md",
@@ -237,7 +238,6 @@
     "Terms/ETL.md",
     "Terms/epoch.md",
     "Terms/Entity.md",
-    "Categories/Cat-Machine-Learning.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
