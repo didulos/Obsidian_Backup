@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/LLM.md",
+                "file": "Terms/Rust.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "LLM"
+              "title": "Rust"
             }
           }
         ]
@@ -212,8 +212,11 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/RAG.md",
+    "Terms/Transformer.md",
+    "Terms/Rust.md",
+    "Terms/무제",
     "Terms/LLM.md",
+    "Terms/RAG.md",
     "Terms/context.md",
     "Terms/TDD.md",
     "Categories/Cat-Infra.md",
@@ -236,8 +239,6 @@
     "Terms/Full-Stack.md",
     "Terms/Model-Development.md",
     "Terms/Ratchet-Principle.md",
-    "Terms/Threshold.md",
-    "Terms/ETL.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
@@ -246,7 +247,6 @@
     "textgenerator/templates/smartConnections",
     "textgenerator/templates/default",
     "textgenerator/configs/llm",
-    "textgenerator/configs",
-    "textgenerator/templates"
+    "textgenerator/configs"
   ]
 }
