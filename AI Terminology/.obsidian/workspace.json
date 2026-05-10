@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/column.md",
+                "file": "Terms/RPC.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "column"
+              "title": "RPC"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/spawn.md",
     "Terms/column.md",
+    "Terms/RPC.md",
+    "Terms/spawn.md",
     "Terms/Profile.md",
     "Terms/blocking.md",
     "Terms/queue.md",
@@ -238,7 +239,6 @@
     "Terms/Transformer.md",
     "Terms/무제",
     "Terms/LLM.md",
-    "Terms/RAG.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
