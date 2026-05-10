@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2026-05-07-data-log-qa-definition.md",
+                "file": "Inbox/2026-05-10-nodejs-overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-07-data-log-qa-definition"
+              "title": "2026-05-10-nodejs-overview"
             }
           }
         ]
@@ -201,11 +201,12 @@
   },
   "active": "632f29334b3804b9",
   "lastOpenFiles": [
+    "Inbox/2026-05-07-data-log-qa-definition.md",
+    "Inbox/2026-05-10-nodejs-overview.md",
     "_Index.md",
     "환영합니다!.md",
     "Inbox/2026-05-07-embedding-definition-usecases.md",
     "Inbox/2026-05-07-embedding-definition-usecases.md.tmp.20883.799cefd603df",
-    "Inbox/2026-05-07-data-log-qa-definition.md",
     "Inbox"
   ]
 }
