@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/RPC.md",
+                "file": "Terms/DevOps.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "RPC"
+              "title": "DevOps"
             }
           }
         ]
@@ -212,8 +212,11 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/column.md",
+    "Terms/MLOps.md",
+    "Terms/DevOps.md",
+    "Terms/VPS.md",
     "Terms/RPC.md",
+    "Terms/column.md",
     "Terms/spawn.md",
     "Terms/Profile.md",
     "Terms/blocking.md",
@@ -223,7 +226,6 @@
     "Terms/delegate-task.md",
     "Terms/Cloudflare.md",
     "Terms/Hermes-Kanban.md",
-    "Terms/MLOps.md",
     "Terms/Pinecone.md",
     "Terms/Vector-Database.md",
     "Terms/Milvus.md",
@@ -236,9 +238,7 @@
     "Terms/VPN.md",
     "Terms/Runtime-Environment.md",
     "Terms/Node.js.md",
-    "Terms/Transformer.md",
     "Terms/무제",
-    "Terms/LLM.md",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
     "textgenerator/templates/trash/default",
