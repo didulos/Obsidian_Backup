@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/Fine-Tuning.md",
+                "file": "Terms/Embedding.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Fine-Tuning"
+              "title": "Embedding"
             }
           }
         ]
@@ -212,8 +212,8 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/NoStarch.md",
     "Terms/Fine-Tuning.md",
+    "Terms/NoStarch.md",
     "Terms/reproducibility.md",
     "Terms/Harness-Engineering.md",
     "Terms/dependency.md",
