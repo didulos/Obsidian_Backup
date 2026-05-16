@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/thread.md",
+                "file": "Terms/Library.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "thread"
+              "title": "Library"
             }
           }
         ]
@@ -212,12 +212,15 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/Archive.md",
+    "Terms/framework.md",
+    "Terms/Library.md",
+    "Terms/PyTorch.md",
+    "Terms/NoStarch.md",
     "Terms/thread.md",
+    "Terms/Archive.md",
     "Terms/snippet.md",
     "Terms/Embedding.md",
     "Terms/Fine-Tuning.md",
-    "Terms/NoStarch.md",
     "Terms/reproducibility.md",
     "Terms/Harness-Engineering.md",
     "Terms/dependency.md",
@@ -225,7 +228,6 @@
     "Terms/Context-Engineering.md",
     "Terms/LangChain.md",
     "Terms/Prompt-Engineering.md",
-    "Terms/framework.md",
     "Terms/CI.md",
     "Terms/CD.md",
     "Terms/Pull-Request.md",
@@ -236,8 +238,6 @@
     "Terms/Rust.md",
     "Terms/DevOps.md",
     "Terms/MLOps.md",
-    "Terms/VPS.md",
-    "Terms/RPC.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
