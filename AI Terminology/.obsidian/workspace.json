@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/Library.md",
+                "file": "Terms/venv.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Library"
+              "title": "venv"
             }
           }
         ]
@@ -212,8 +212,12 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/framework.md",
+    "Terms/apt.md",
+    "Terms/Advanced Package Tool.md",
+    "Terms/pip.md",
+    "Terms/venv.md",
     "Terms/Library.md",
+    "Terms/framework.md",
     "Terms/PyTorch.md",
     "Terms/NoStarch.md",
     "Terms/thread.md",
@@ -234,10 +238,6 @@
     "Terms/commit.md",
     "Terms/Push.md",
     "Terms/Automated-Testing.md",
-    "Terms/PRD.md",
-    "Terms/Rust.md",
-    "Terms/DevOps.md",
-    "Terms/MLOps.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
