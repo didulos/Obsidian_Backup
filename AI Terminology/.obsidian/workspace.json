@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/snippet.md",
+                "file": "Terms/thread.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "snippet"
+              "title": "thread"
             }
           }
         ]
@@ -212,8 +212,10 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/Embedding.md",
+    "Terms/Archive.md",
+    "Terms/thread.md",
     "Terms/snippet.md",
+    "Terms/Embedding.md",
     "Terms/Fine-Tuning.md",
     "Terms/NoStarch.md",
     "Terms/reproducibility.md",
@@ -236,8 +238,6 @@
     "Terms/MLOps.md",
     "Terms/VPS.md",
     "Terms/RPC.md",
-    "Terms/column.md",
-    "Terms/spawn.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
