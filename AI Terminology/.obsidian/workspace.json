@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/venv.md",
+                "file": "Terms/kernel.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "venv"
+              "title": "kernel"
             }
           }
         ]
@@ -212,10 +212,11 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
+    "Terms/venv.md",
+    "Terms/kernel.md",
     "Terms/apt.md",
     "Terms/Advanced Package Tool.md",
     "Terms/pip.md",
-    "Terms/venv.md",
     "Terms/Library.md",
     "Terms/framework.md",
     "Terms/PyTorch.md",
@@ -237,7 +238,6 @@
     "Terms/Pull-Request.md",
     "Terms/commit.md",
     "Terms/Push.md",
-    "Terms/Automated-Testing.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
