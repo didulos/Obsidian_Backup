@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/pipeline.md",
+                "file": "Terms/DevTools.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "pipeline"
+              "title": "DevTools"
             }
           }
         ]
@@ -212,8 +212,10 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/kernel.md",
+    "Terms/Supabase.md",
+    "Terms/DevTools.md",
     "Terms/pipeline.md",
+    "Terms/kernel.md",
     "Terms/venv.md",
     "Terms/apt.md",
     "Terms/Advanced Package Tool.md",
@@ -236,8 +238,6 @@
     "Terms/Prompt-Engineering.md",
     "Terms/CI.md",
     "Terms/CD.md",
-    "Terms/Pull-Request.md",
-    "Terms/commit.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
