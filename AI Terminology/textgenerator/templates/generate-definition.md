@@ -30,8 +30,6 @@ description: 용어의 정의, 관련 개념, 비유를 생성하고 frontmatter
 
 아래 형식을 정확히 따르세요:
 
-  
-
 ---
 
 type: term

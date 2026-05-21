@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/DevTools.md",
+                "file": "Terms/clarify.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DevTools"
+              "title": "clarify"
             }
           }
         ]
@@ -212,8 +212,13 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/Supabase.md",
+    "Terms/PRD.md",
+    "Terms/clarify.md",
+    "Terms/compound.md",
+    "Terms/Hook.md",
+    "textgenerator/templates/generate-definition.md",
     "Terms/DevTools.md",
+    "Terms/Supabase.md",
     "Terms/pipeline.md",
     "Terms/kernel.md",
     "Terms/venv.md",
@@ -233,11 +238,6 @@
     "Terms/Harness-Engineering.md",
     "Terms/dependency.md",
     "Terms/Harness.md",
-    "Terms/Context-Engineering.md",
-    "Terms/LangChain.md",
-    "Terms/Prompt-Engineering.md",
-    "Terms/CI.md",
-    "Terms/CD.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
