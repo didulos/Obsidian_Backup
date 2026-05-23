@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/clarify.md",
+                "file": "Terms/disruption.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "clarify"
+              "title": "disruption"
             }
           }
         ]
@@ -212,8 +212,11 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/PRD.md",
+    "Terms/deprecated.md",
+    "Terms/disruption.md",
+    "Terms/PM.md",
     "Terms/clarify.md",
+    "Terms/PRD.md",
     "Terms/compound.md",
     "Terms/Hook.md",
     "textgenerator/templates/generate-definition.md",
@@ -235,9 +238,6 @@
     "Terms/Embedding.md",
     "Terms/Fine-Tuning.md",
     "Terms/reproducibility.md",
-    "Terms/Harness-Engineering.md",
-    "Terms/dependency.md",
-    "Terms/Harness.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
