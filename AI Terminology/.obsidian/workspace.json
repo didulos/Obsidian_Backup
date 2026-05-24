@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/ERP.md",
+                "file": "Terms/fork.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ERP"
+              "title": "fork"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/disruption.md",
     "Terms/ERP.md",
+    "Terms/fork.md",
+    "Terms/disruption.md",
     "Terms/deprecated.md",
     "Terms/PM.md",
     "Terms/clarify.md",
@@ -237,7 +238,6 @@
     "Terms/Archive.md",
     "Terms/snippet.md",
     "Terms/Embedding.md",
-    "Terms/Fine-Tuning.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
