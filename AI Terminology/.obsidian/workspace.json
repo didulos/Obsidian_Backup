@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/fork.md",
+                "file": "Terms/LangChain.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "fork"
+              "title": "LangChain"
             }
           }
         ]
@@ -212,8 +212,10 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/ERP.md",
+    "Terms/IDE.md",
+    "Terms/notebook.md",
     "Terms/fork.md",
+    "Terms/ERP.md",
     "Terms/disruption.md",
     "Terms/deprecated.md",
     "Terms/PM.md",
@@ -236,8 +238,6 @@
     "Terms/NoStarch.md",
     "Terms/thread.md",
     "Terms/Archive.md",
-    "Terms/snippet.md",
-    "Terms/Embedding.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
