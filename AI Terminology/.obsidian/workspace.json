@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/LangChain.md",
+                "file": "Terms/venv.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "LangChain"
+              "title": "venv"
             }
           }
         ]
@@ -212,6 +212,13 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
+    "Terms/Jupyter-Notebook.md",
+    "Terms/ipynb.md",
+    "Terms/Diffusion-Model.md",
+    "Terms/Generative-AI.md",
+    "Terms/AI.md",
+    "Terms/sparse.md",
+    "Terms/LangChain.md",
     "Terms/IDE.md",
     "Terms/notebook.md",
     "Terms/fork.md",
@@ -231,13 +238,6 @@
     "Terms/venv.md",
     "Terms/apt.md",
     "Terms/Advanced Package Tool.md",
-    "Terms/pip.md",
-    "Terms/Library.md",
-    "Terms/framework.md",
-    "Terms/PyTorch.md",
-    "Terms/NoStarch.md",
-    "Terms/thread.md",
-    "Terms/Archive.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
