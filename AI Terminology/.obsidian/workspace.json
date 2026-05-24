@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/disruption.md",
+                "file": "Terms/ERP.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "disruption"
+              "title": "ERP"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/deprecated.md",
     "Terms/disruption.md",
+    "Terms/ERP.md",
+    "Terms/deprecated.md",
     "Terms/PM.md",
     "Terms/clarify.md",
     "Terms/PRD.md",
@@ -237,7 +238,6 @@
     "Terms/snippet.md",
     "Terms/Embedding.md",
     "Terms/Fine-Tuning.md",
-    "Terms/reproducibility.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
