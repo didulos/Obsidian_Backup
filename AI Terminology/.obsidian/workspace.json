@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/kernel.md",
+                "file": "Terms/MLOps.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "kernel"
+              "title": "MLOps"
             }
           }
         ]
@@ -212,6 +212,10 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
+    "Terms/artifact.md",
+    "Terms/PR.md",
+    "Terms/refactoring.md",
+    "Terms/kernel.md",
     "Terms/scaffold.md",
     "Terms/venv.md",
     "Terms/Jupyter-Notebook.md",
@@ -234,10 +238,6 @@
     "Terms/Hook.md",
     "textgenerator/templates/generate-definition.md",
     "Terms/DevTools.md",
-    "Terms/Supabase.md",
-    "Terms/pipeline.md",
-    "Terms/kernel.md",
-    "Terms/apt.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
