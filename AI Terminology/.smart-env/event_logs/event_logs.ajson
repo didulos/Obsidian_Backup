@@ -260,3 +260,7 @@
 "event_logs:sources:reimport_started": {"key":"sources:reimport_started","ct":322,"first_at":1777254664801,"last_at":1779633624424,"class_name":"EventLog","event_sources":{"run_re_import":322}},
 "event_logs:sources:reimport_progress": {"key":"sources:reimport_progress","ct":434,"first_at":1777254664803,"last_at":1779633624424,"class_name":"EventLog","event_sources":{"run_re_import":434}},
 "event_logs:sources:reimport_completed": {"key":"sources:reimport_completed","ct":320,"first_at":1777254664803,"last_at":1779633624473,"class_name":"EventLog","event_sources":{"run_re_import":320}},
+"event_logs:connections:opened": {"key":"connections:opened","ct":432,"first_at":1777249176687,"last_at":1779693030599,"class_name":"EventLog"},
+"event_logs:sources:opened": {"key":"sources:opened","ct":341,"first_at":1777250153211,"last_at":1779693030326,"class_name":"EventLog","event_sources":{"active-leaf-change":341}},
+"event_logs:source:initial_scan_started": {"key":"source:initial_scan_started","ct":1,"first_at":1779794021038,"last_at":1779794021038,"class_name":"EventLog","event_sources":{"init_items":1}},
+"event_logs:source:initial_scan_completed": {"key":"source:initial_scan_completed","ct":1,"first_at":1779794021083,"last_at":1779794021083,"class_name":"EventLog","event_sources":{"init_items":1}},

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/scaffold.md",
+                "file": "Terms/kernel.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "scaffold"
+              "title": "kernel"
             }
           }
         ]
@@ -212,8 +212,8 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/venv.md",
     "Terms/scaffold.md",
+    "Terms/venv.md",
     "Terms/Jupyter-Notebook.md",
     "Terms/ipynb.md",
     "Terms/Diffusion-Model.md",
