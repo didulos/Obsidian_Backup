@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/migration.md",
+                "file": "Terms/token.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "migration"
+              "title": "token"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/PRD.md",
     "Terms/migration.md",
+    "Terms/token.md",
+    "Terms/PRD.md",
     "Terms/MLOps.md",
     "Terms/artifact.md",
     "Terms/PR.md",
@@ -237,7 +238,6 @@
     "Terms/PM.md",
     "Terms/clarify.md",
     "Terms/compound.md",
-    "Terms/Hook.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
