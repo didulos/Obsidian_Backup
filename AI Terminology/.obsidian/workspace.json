@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/token.md",
+                "file": "Terms/bullet-point.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "token"
+              "title": "bullet-point"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/migration.md",
     "Terms/token.md",
+    "Terms/bullet-point.md",
+    "Terms/migration.md",
     "Terms/PRD.md",
     "Terms/MLOps.md",
     "Terms/artifact.md",
@@ -237,7 +238,6 @@
     "Terms/deprecated.md",
     "Terms/PM.md",
     "Terms/clarify.md",
-    "Terms/compound.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
