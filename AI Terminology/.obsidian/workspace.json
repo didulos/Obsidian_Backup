@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms/modal.md",
+                "file": "Terms/CDN.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "modal"
+              "title": "CDN"
             }
           }
         ]
@@ -212,8 +212,12 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
-    "Terms/bullet-point.md",
+    "textgenerator/templates/generate-definition.md",
+    "Terms/CDN.md",
+    "Terms/state.md",
+    "Terms/props.md",
     "Terms/modal.md",
+    "Terms/bullet-point.md",
     "Terms/token.md",
     "Terms/migration.md",
     "Terms/PRD.md",
@@ -234,10 +238,6 @@
     "Terms/IDE.md",
     "Terms/notebook.md",
     "Terms/fork.md",
-    "Terms/ERP.md",
-    "Terms/disruption.md",
-    "Terms/deprecated.md",
-    "Terms/PM.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
