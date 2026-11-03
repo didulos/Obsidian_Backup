@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -212,6 +214,8 @@
   },
   "active": "5f474a9babbca04b",
   "lastOpenFiles": [
+    "wiki/Welcome to Karpathy LLM Wiki.md",
+    "wiki",
     "textgenerator/templates/generate-definition.md",
     "Terms/CDN.md",
     "Terms/state.md",
@@ -237,7 +241,6 @@
     "Terms/LangChain.md",
     "Terms/IDE.md",
     "Terms/notebook.md",
-    "Terms/fork.md",
     "Terms/무제",
     "textgenerator/templates/trash/smartConnections",
     "textgenerator/templates/trash/dalle",
@@ -246,7 +249,6 @@
     "textgenerator/templates/dalle",
     "textgenerator/templates/smartConnections",
     "textgenerator/templates/default",
-    "textgenerator/configs/llm",
-    "textgenerator/configs"
+    "textgenerator/configs/llm"
   ]
 }
